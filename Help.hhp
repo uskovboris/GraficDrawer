@@ -1,0 +1,16 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Help.chm
+Contents file=HELP\Table of Contents.hhc
+Default topic=HELP\Раздел1.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x419 Русский
+Title=Построитель графиков функций, заданных в аналитической форме
+
+
+[FILES]
+HELP\Раздел1.htm
+
+[INFOTYPES]
+
